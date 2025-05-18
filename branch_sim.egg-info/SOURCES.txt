@@ -1,0 +1,11 @@
+setup.py
+branch_sim/__init__.py
+branch_sim/bimodal.py
+branch_sim/gshare.py
+branch_sim/hybrid.py
+branch_sim/sim.py
+branch_sim/smith.py
+branch_sim.egg-info/PKG-INFO
+branch_sim.egg-info/SOURCES.txt
+branch_sim.egg-info/dependency_links.txt
+branch_sim.egg-info/top_level.txt
