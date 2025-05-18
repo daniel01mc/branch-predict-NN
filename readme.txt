@@ -1,5 +1,4 @@
-#############################################################################
-
+# Branch Predictor using Neural Networks
 Project directory: 
 branch_sim_VirE
    |
@@ -30,4 +29,6 @@ type "make build" to build whole project
 type "make clean" to remove build
 ##################################################################################
 
-The Neural networks folder contains both multi-layer neural networks and single layer perceptrons. All of those folders have their own readme files.
+- The Neural networks folder contains both multi-layer neural networks and single layer perceptrons. All of those folders have their own readme files.
+
+- There is a annotated report witht the results. 
