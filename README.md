@@ -1,9 +1,11 @@
 # Branch Predictor using Neural Networks
-Project directory: 
+
+
+Project directory:
+
 branch_sim_VirE
-   |
-   |------>branch_sim
-              |
+- ------>branch_sim
+
               |---> __init__.py
               |--->bimodal.py
               |--->gshare.py
@@ -12,7 +14,7 @@ branch_sim_VirE
               |--->setup.py
               |--->hybrid.py
               |--->Makefile
-################################################################################
+
 
 branch_sim_VirE is a virtual envinroment (which can be modified by user)
 One needs to get in that directory (cd branch_sim_VirE)
